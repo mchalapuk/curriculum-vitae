@@ -34,9 +34,9 @@
      inkscape:window-height="1174"
      id="namedview56"
      showgrid="false"
-     inkscape:zoom="0.70710675"
-     inkscape:cx="427.77409"
-     inkscape:cy="536.38888"
+     inkscape:zoom="0.99999996"
+     inkscape:cx="506.82608"
+     inkscape:cy="558.57058"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1588,18 +1588,18 @@
          x="539.99994"
          sodipodi:role="line"
          id="tspan5294"> * Provided mentoring, performed code reviews,</tspan><tspan
-         id="tspan7472"
          y="434.76123"
          x="539.99994"
-         sodipodi:role="line"> * Set-up single-click deployment pipeline,</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5285"> * Managed graphical, programming and ops work,</tspan><tspan
+         id="tspan7472"
          y="446.01123"
          x="539.99994"
-         sodipodi:role="line"
-         id="tspan5292"> * Implemented most difficult parts of the system,</tspan><tspan
+         sodipodi:role="line"> * Set-up single-click deployment pipeline,</tspan><tspan
          id="tspan7476"
          y="457.26123"
          x="539.99994"
-         sodipodi:role="line"> * Promoted to CTO after 16 months.</tspan></text>
+         sodipodi:role="line"> * Implemented most difficult parts of the system.</tspan></text>
     <text
        sodipodi:linespacing="130%"
        id="text8205"
