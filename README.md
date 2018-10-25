@@ -1,1 +1,1 @@
-<img src=https://raw.githubusercontent.com/mchalapuk/curriculum-vitae/master/cv.svg style="width: 100%">
+<img src=https://mchalapuk.github.io/curriculum-vitae/cv.svg style="width: 100%">
